@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <script type="module" src="js/lista.js" defer></script>
+    <title>Pessoas com cadastro</title>
+</head>
+
+<body>
+    <h1>Pessoas cadastradas</h1>
+    <main class="container">
+        <header class="cabecalho">
+            <a href="cadastrar.html" class="botao"> + Nova Pessoas</a>
+        </header>
+        <p id="mensagem" role="status"></p>
+
+        <div class="tabela_container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>NOME</th>
+                        <th>IDADE</th>
+                        <th>AÇÕES</th>
+                    </tr>
+                </thead>
+                <tbody id="corpoTabela"></tbody>
+            </table>
+        </div>
+    </main>
+</body>
+
+</html>
