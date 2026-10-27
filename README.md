@@ -5,7 +5,7 @@
 **Atividade 08 – Consumindo o Back-End no Front-End – CRUD**
 
 **Professor:** Vitor Lima Santana  
-**Aluno(a):** Diana Gouveia Gonçalves  
+**Aluno(a):** Gustavo Henrique Santos da Silva  
 **Disciplina:** Programação Back-End
 
 ## 1. Objetivo
