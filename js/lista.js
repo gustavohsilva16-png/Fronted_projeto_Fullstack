@@ -17,16 +17,17 @@ async function listarPessoas() {
 
         const pessoas = await resposta.json();
         corpoTabela.innerHTML = "";
-
-        if(pessoas.length === 0){
-            const linha = document.createElement("tr");
-            const celula = document.createElement("td");
-            celula.colSpan = 4;
-            celula.textContent = "Nenhuma pessoa cadastrada"
+        
+        if(pessoas.lenght === 0){
+            const linha= document.createElement("tr");
+            const celula= document.createElement("td");
+            celula.colSpan=4;
+            celula.textContent = "nenhuma pessoa cadastrada";
             linha.appendChild(celula);
             corpoTabela.appendChild(linha);
             return;
         }
+
 
         pessoas.forEach(pessoa => {
             // console.log(pessoa);

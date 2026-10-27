@@ -1,9 +1,11 @@
+"# frontendProjetoFullStack" 
+
 # Front-End – Sistema de Gestão de Pessoas
 
 **Atividade 08 – Consumindo o Back-End no Front-End – CRUD**
 
 **Professor:** Vitor Lima Santana  
-**Aluno(a):** [Nome completo]  
+**Aluno(a):** Diana Gouveia Gonçalves  
 **Disciplina:** Programação Back-End
 
 ## 1. Objetivo
@@ -130,36 +132,41 @@ Adicione capturas de tela demonstrando:
 
 **Imagem 1 – Tela de listagem**
 
-[Inserir imagem]
+![Tabela de Listagem de Pessoas](fotos/image.png)
 
 **Imagem 2 – Formulário de cadastro**
 
-[Inserir imagem]
+![Tabela de Listagem de Pessoas](fotos/Captura%20de%20tela%202026-10-22%20163535.png)
 
 **Imagem 3 – Cadastro funcionando**
 
-[Inserir imagem]
+![Tabela de Listagem de Pessoas](fotos/Captura%20de%20tela%202026-10-22%20163641.png)
 
 **Imagem 4 – Registro inserido no banco de dados**
+![Tabela de Listagem de Pessoas](fotos/Captura%20de%20tela%202026-10-22%20163803.png)
 
-[Inserir imagem]
+![Tabela de Listagem de Pessoas](fotos/Captura%20de%20tela%202026-10-22%20164339.png)
 
 ## 8. Repositórios
 
-**Back-End (Fork):** [https://github.com/gustavohsilva16-png/Fronted_projeto_Fullstack.git]
-Inserir
-**Front-End:** [https://github.com/gustavohsilva16-png/Fronted_projeto_Fullstack.git]
+**Back-End (Fork):** https://github.com/dianagoncalves-bit/frontendProjetoFullStack.git
+
+**Front-End:** (https://github.com/dianagoncalves-bit/ProjetoFullStack.git)
 
 ## 9. Conclusão do aluno
 
 Explique com suas palavras:
 
 - Como funciona a comunicação entre o Front-End e o Back-End?
+  O Front-End (a tela) faz um pedido pela internet e o Back-End (o servidor) processa e envia uma resposta de volta
 - Qual é a finalidade do método POST?
+  Ele serve para enviar e salvar uma informação nova no sistema
 - Por que utilizamos `async/await` e `try/catch`?
+  O async/await serve para o site esperar a resposta da internet sem congelar a tela do usuário. O try/catch é o plano B para quando a internet cai ou o servidor falha, garantindo que o site mostre um aviso amigável (ex: "Erro de conexão") em vez de quebrar e parar de funcionar.
 - Quais dificuldades você encontrou durante a atividade?
+  Eu sempre tenho dificculdade de entender a logica do motivo das coisas funcionarem dessa maneira, é como se eu estivesse aprendendo uma nova lingua e só entendesse as palavras mais não as frases.
 
-[Escreva sua conclusão aqui.]
+  Conectar o Front-End e o Back-End exige que todas as ferramentas (POST, async/await, try/catch) trabalhem juntas para guiar a informação com paciência e segurança. A maior dificuldade na atividade foi entender a lógica dessa engrenagem. No começo, programar é como aprender uma nova língua: é fácil entender os comandos isolados (as palavras), mas o verdadeiro desafio é compreender como e por que eles se juntam para fazer o sistema funcionar (as frases).
 
 ---
 
@@ -167,6 +174,6 @@ Explique com suas palavras:
 
 **Professor responsável:** Vitor Lima Santana
 
-**Desenvolvido por:** [Nome do aluno]
+**Desenvolvido por:** Diana Gouveia Gonçalves
 
-**Atividade 08 – Desenvolvimento Web e Consumo de APIs REST**"# Backend_projeto_aula09" 
+**Atividade 08 – Desenvolvimento Web e Consumo de APIs REST**
