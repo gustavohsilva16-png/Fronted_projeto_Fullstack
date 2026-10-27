@@ -130,28 +130,28 @@ A API estará disponível em:
 
 Adicione capturas de tela demonstrando:
 
-**Imagem 1 – Tela de listagem**
+**Imagem 1 – Tela de listagem** 
 
-![Tabela de Listagem de Pessoas](fotos/image.png)
+![Tabela de Listagem de Pessoas](./img/img_aula09/conexao.png)
 
 **Imagem 2 – Formulário de cadastro**
 
-![Tabela de Listagem de Pessoas](fotos/Captura%20de%20tela%202026-10-22%20163535.png)
+![Tabela de Listagem de Pessoas](./img/img_aula09/cadastrotela.png)
 
 **Imagem 3 – Cadastro funcionando**
 
-![Tabela de Listagem de Pessoas](fotos/Captura%20de%20tela%202026-10-22%20163641.png)
+![Tabela de Listagem de Pessoas](./img/img_aula09/post.png)
 
 **Imagem 4 – Registro inserido no banco de dados**
-![Tabela de Listagem de Pessoas](fotos/Captura%20de%20tela%202026-10-22%20163803.png)
+![Tabela de Listagem de Pessoas](./img/img_aula09/adicaodepessoa.png)
 
-![Tabela de Listagem de Pessoas](fotos/Captura%20de%20tela%202026-10-22%20164339.png)
+![Tabela de Listagem de Pessoas](./img/img_aula09/dms.png)
 
 ## 8. Repositórios
 
-**Back-End (Fork):** https://github.com/dianagoncalves-bit/frontendProjetoFullStack.git
+**Back-End (Fork):** https://github.com/gustavohsilva16-png/ProjetoFullStack_DM.git
 
-**Front-End:** (https://github.com/dianagoncalves-bit/ProjetoFullStack.git)
+**Front-End:** (https://github.com/gustavohsilva16-png/Fronted_projeto_Fullstack.git)
 
 ## 9. Conclusão do aluno
 
