@@ -174,6 +174,6 @@ Explique com suas palavras:
 
 **Professor responsável:** Vitor Lima Santana
 
-**Desenvolvido por:** Diana Gouveia Gonçalves
+**Desenvolvido por:** Gustavo Henrique Santos da Silva
 
 **Atividade 08 – Desenvolvimento Web e Consumo de APIs REST**
